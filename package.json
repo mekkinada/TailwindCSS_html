@@ -1,0 +1,10 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "build-css": "tailwindcss -i ./tailwind.config.css -o ./tailwind.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^2.2.19"
+  },
+  "dependencies": {}
+}
